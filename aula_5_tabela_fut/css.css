@@ -103,7 +103,8 @@ td{
 #goleadores{
     width: 60%;
     background-color: #e2e2e2;
-    
+    padding: 20px;
+}
 
 #partidas{
     width: 60%;
