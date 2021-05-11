@@ -31,7 +31,7 @@ td{
 
 .tudo{
     background-color: #e2e2e2;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .linha{
@@ -39,7 +39,7 @@ td{
 }
 
 #cabecalho{
-    background-color: #162e58;
+    background-color: #000000;
     min-height: 100px;
     padding: 50px 30px 10px 30px;
     position: relative;
@@ -58,7 +58,7 @@ td{
 }
 
 .itemMenu:hover{
-    background-color: #1c0465;
+    background-color: #6a41e6;
 }
 
 .itemMenu{
